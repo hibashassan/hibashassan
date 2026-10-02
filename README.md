@@ -9,7 +9,7 @@ AI strategist and business researcher in Dubai. I study why enterprise AI stalls
 
 **Products I build**
 - [Nasy](https://github.com/hibashassan/nasy-app): a bilingual personal CRM for the GCC. [nasy.app](https://www.nasy.app)
-- [Sajjil](https://github.com/hibashassan/sajjil-app): a macOS call recorder with Arabic and English transcription
+- [Sajjil](https://github.com/hibashassan/sajjil-app): a macOS call recorder with Arabic and English transcription. [Mac App Store](https://apps.apple.com/app/sajjil-call-recorder/id6792492182)
 - [RPnarrative](https://github.com/hibashassan/rpnarrative): a community platform for collaborative roleplay writing. [rpnarrative.com](https://rpnarrative.com)
 
 Source code for these is private. Each repo describes the product and links to it.
