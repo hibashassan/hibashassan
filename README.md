@@ -10,7 +10,7 @@ AI strategist and business researcher in Dubai. I study why enterprise AI stalls
 **Products I build**
 - [Nasy](https://github.com/hibashassan/nasy-app): a bilingual personal CRM for the GCC. [nasy.app](https://www.nasy.app)
 - [Sajjil](https://github.com/hibashassan/sajjil-app): a macOS call recorder with Arabic and English transcription. [Mac App Store](https://apps.apple.com/app/sajjil-call-recorder/id6792492182)
-- [ListAZ](https://github.com/hibashassan/listaz-app): shared shopping and to-do lists for iPhone, live across the household.
+- [ListAZ](https://github.com/hibashassan/listaz-app): shared shopping and to-do lists for iPhone, live across the household. [App Store](https://apps.apple.com/app/listaz-shared-lists/id6818979595)
 - [RPnarrative](https://github.com/hibashassan/rpnarrative): a community platform for collaborative roleplay writing. [rpnarrative.com](https://rpnarrative.com)
 - [Sahretna](https://github.com/hibashassan/sahretna-app): Arabic party games for a room of friends, played on your phones. [Play it](https://sahretna-production.up.railway.app)
 
